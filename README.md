@@ -40,32 +40,32 @@ make sensor online
 
 ## Views
 
-### ready mounted sensor
+ready mounted sensor   
 <img src="images/image01.jpg" width=640>
 <br>
 <br>
 
-### the filament teflon tube has to be exactly in the optical axis of the slotted optical sensor
+the filament teflon tube has to be exactly in the optical axis of the slotted optical sensor   
 <img src="images/image02.jpg" width=640>
 <br>
 <br>
 
-### teflon tube removed
+teflon tube removed   
 <img src="images/image03.jpg" width=640>
 <br>
 <br>
 
-### hand wired prototype, the push-button is removable to allow in circuit programming of the ATTINY13 controller
+hand wired prototype, the push-button is removable to allow in circuit programming of the ATTINY13 controller   
 <img src="images/image04.jpg" width=640>
 <br>
 <br>
 
-### 3d-print files in stl format are in the repository
+3d-print files in stl format are in the repository   
 <img src="images/print.png" width=640>
 <br>
 <br>
 
-### schematic (a pcb layout does not exist (yet))
+schematic   
 <img src="images/schematic.png" width=640>
 
 <br>
