@@ -1,6 +1,6 @@
 # **Optical Filament Runout Sensor**
 
-Optical filament detection is not as easy as it seems at first glance. Especially transparent filaments might focus sensor-LED light and even enhance detection levels instead of dampen them as opaque filaments do. As a consequence this is a 'change of condition sensor' that detects well the runout of filament but not the presence or absence of it.
+Optical filament detection is not as easy as it seems at first glance. Especially transparent filaments might focus emitter-LED light and even enhance detection levels instead of dampen them as opaque filaments do. As a consequence this is a 'change of condition sensor' that detects runout of filament but not the presence or absence of it. Nevertheless the detection of some transparent filaments is possibly not reliable.
 
 <br>
 
@@ -41,36 +41,36 @@ make sensor online
 ## Views
 
 ### ready mounted sensor
-![Image](images/image01.jpg)
+<img src="images/image01.jpg" width=640>
 <br>
 <br>
 
 ### the filament teflon tube has to be exactly in the optical axis of the slotted optical sensor
-![Image](images/image02.jpg)
+<img src="images/image02.jpg" width=640>
 <br>
 <br>
 
 ### teflon tube removed
-![Image](images/image03.jpg)
+<img src="images/image03.jpg" width=640>
 <br>
 <br>
 
 ### hand wired prototype, the push-button is removable to allow in circuit programming of the ATTINY13 controller
-![Image](images/image04.jpg)
+<img src="images/image04.jpg" width=640>
 <br>
 <br>
 
 ### 3d-print files in stl format are in the repository
-![Image](images/print.png)
+<img src="images/print.png" width=640>
 <br>
 <br>
 
 ### schematic (a pcb layout does not exist (yet))
-![Image](images/schematic.png)
+<img src="images/schematic.png" width=640>
 
 <br>
 <br>
 
 ---
 
-[qrt@qland.de](mailto:qrt@qland.de) 201017
+[qrt@qland.de](mailto:qrt@qland.de) 210708
